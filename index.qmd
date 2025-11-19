@@ -1,0 +1,20 @@
+cat > index.qmd << 'EOF'
+---
+title: "Estructura y tipología de la oferta en AWS Marketplace"
+subtitle: "Un análisis empírico basado en datos públicos"
+author: "Julia [Tu Apellido]"
+date: today
+---
+
+# Resumen {.unnumbered}
+
+Este Trabajo de Fin de Grado analiza la estructura y características de la oferta de productos en AWS Marketplace mediante técnicas de web scraping y análisis de datos. 
+
+**Palabras clave:** AWS Marketplace, Cloud Computing, SaaS, Web Scraping, Análisis de Datos
+
+# Abstract {.unnumbered}
+
+This Bachelor's Thesis analyzes the structure and characteristics of the product offering in AWS Marketplace using web scraping techniques and data analysis.
+
+**Keywords:** AWS Marketplace, Cloud Computing, SaaS, Web Scraping, Data Analysis
+EOF

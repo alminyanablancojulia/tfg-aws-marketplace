@@ -1,0 +1,19 @@
+---
+title: "4. Resultados"
+format: html
+editor: visual
+---
+
+
+# Capítulo 4: Resultados
+cat > chapters/04_resultados.qmd << 'EOF'
+# Resultados
+
+## Descripción del conjunto de datos
+
+## Análisis descriptivo
+
+## Análisis de texto
+
+## Patrones identificados
+EOF

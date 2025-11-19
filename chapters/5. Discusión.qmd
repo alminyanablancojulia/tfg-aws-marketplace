@@ -1,0 +1,19 @@
+---
+title: "5. Discusión"
+format: html
+editor: visual
+---
+
+
+
+# Capítulo 5: Discusión
+
+cat > chapters/05_discusion.qmd << 'EOF'
+# Discusión
+
+## Interpretación de resultados
+
+## Comparación con otros marketplaces
+
+## Limitaciones del estudio
+EOF

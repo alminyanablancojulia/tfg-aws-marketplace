@@ -1,0 +1,18 @@
+---
+title: "2. Marco Teórico"
+format: html
+editor: visual
+---
+
+
+cat > chapters/02_marco_teorico.qmd << 'EOF'
+# Marco Teórico
+
+## Cloud Computing y Cloud Marketplaces
+
+## Modelos de negocio SaaS
+
+## AWS Marketplace
+
+## Revisión de la literatura
+EOF

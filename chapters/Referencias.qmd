@@ -1,0 +1,16 @@
+---
+title: "Referencias"
+format: html
+editor: visual
+---
+
+
+
+# Referencias
+
+cat \> references.qmd \<\< 'EOF' \# Referencias {.unnumbered}
+
+::: {#refs}
+:::
+
+EOF

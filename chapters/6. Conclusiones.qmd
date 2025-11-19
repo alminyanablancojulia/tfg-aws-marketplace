@@ -1,0 +1,17 @@
+---
+title: "6. Conclusiones"
+format: html
+editor: visual
+---
+
+
+# Capítulo 6: Conclusiones
+cat > chapters/06_conclusiones.qmd << 'EOF'
+# Conclusiones
+
+## Hallazgos principales
+
+## Implicaciones prácticas
+
+## Líneas futuras de investigación
+EOF

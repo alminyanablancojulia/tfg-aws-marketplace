@@ -1,0 +1,35 @@
+cat > _quarto.yml << 'EOF'
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Estructura y tipología de la oferta en AWS Marketplace"
+  subtitle: "Un análisis empírico basado en datos públicos"
+  author: "Julia [Tu Apellido]"
+  date: today
+  chapters:
+    - index.qmd
+    - chapters/01_introduccion.qmd
+    - chapters/02_marco_teorico.qmd
+    - chapters/03_metodologia.qmd
+    - chapters/04_resultados.qmd
+    - chapters/05_discusion.qmd
+    - chapters/06_conclusiones.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    documentclass: book
+    toc: true
+    number-sections: true
+    colorlinks: true
+    keep-tex: false
+EOF

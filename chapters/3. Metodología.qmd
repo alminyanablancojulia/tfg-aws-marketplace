@@ -1,0 +1,26 @@
+---
+title: "3. Metodología"
+format: html
+editor: visual
+---
+
+
+
+# Capítulo 3: Metodología
+cat > chapters/03_metodologia.qmd << 'EOF'
+# Metodología
+
+## Fuentes de datos
+
+## Variables analizadas
+
+## Proceso de extracción de datos
+
+### Web scraping
+
+### API de AWS Marketplace
+
+## Tratamiento y limpieza de datos
+
+## Técnicas de análisis
+EOF
